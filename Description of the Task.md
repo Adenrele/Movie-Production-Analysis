@@ -2,8 +2,7 @@ Report
 
 This report was the first required in the Data Science Research Methods module of the MSc Data Science course at the Universiy of Sussex.
 
-Scenario
-In summary, the requirement is the analysis of IMDB data for the production of an action plan to produce a successful movie with 1.5million from investors.
+ScenarioIn summary, the requirement is the analysis of IMDB data for the production of an action plan to produce a successful movie with 1.5million from investors.
 
 This report contains and shows I can complete:
 
